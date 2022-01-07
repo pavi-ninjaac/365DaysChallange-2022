@@ -8,3 +8,4 @@
 |    Day 4  | 04/01/2022 |Elastic Net Regression|link|
 |    Day 5  | 05/01/2022 |Polynomial Regression <br/> Polynomial Ridge Regression|link|
 |    Day 6  | 06/01/2022 |KNN Classifier|link|
+|    Day 7  | 07/01/2022 |Logistic Regression |link|

@@ -9,4 +9,5 @@
 |    Day 5  | 05/01/2022 |Polynomial Regression <br/> Polynomial Ridge Regression|link|
 |    Day 6  | 06/01/2022 |KNN Classifier|link|
 |    Day 7  | 07/01/2022 |Logistic Regression |link|
-|    Day 8  | 08/01/2022 |Decision Tree learning |link|
+|    Day 8  | 08/01/2022 |Decision Tree Classification |link|
+|    Day 9  | 09/01/2022 |Decision Tree Regression learning |link|

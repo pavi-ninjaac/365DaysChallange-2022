@@ -11,3 +11,4 @@
 |    Day 7  | 07/01/2022 |Logistic Regression |link|
 |    Day 8  | 08/01/2022 |Decision Tree Classification |link|
 |    Day 9  | 09/01/2022 |Decision Tree Regression learning |link|
+|    Day 10  | 10/01/2022 |Random forest learning |link|

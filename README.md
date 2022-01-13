@@ -14,3 +14,4 @@
 |    Day 10  | 10/01/2022 |Random forest learning |link|
 |    Day 11  | 11/01/2022 |Random forest Classifier |link|
 |    Day 12  | 12/01/2022 |Random forest code |link|
+|    Day 13  | 13/01/2022 |Adaboost learning |link|

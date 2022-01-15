@@ -16,3 +16,4 @@
 |    Day 12  | 12/01/2022 |Random forest code |link|
 |    Day 13  | 13/01/2022 |Adaboost learning |link|
 |    Day 14  | 14/01/2022 |Gradiant Boosting |link|
+|    Day 15  | 15/01/2022 |Gradiant Boosting |link|

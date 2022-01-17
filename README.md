@@ -18,3 +18,4 @@
 |    Day 14  | 14/01/2022 |Gradiant Boosting |link|
 |    Day 15  | 15/01/2022 |Gradiant Boosting |link|
 |    Day 16  | 16/01/2022 |Explotary Data Analysis (EDA) |link|
+|    Day 16  | 16/01/2022 |Explotary Data Analysis (EDA) |link|

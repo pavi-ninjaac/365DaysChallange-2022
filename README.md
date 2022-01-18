@@ -18,4 +18,5 @@
 |    Day 14  | 14/01/2022 |Gradiant Boosting |link|
 |    Day 15  | 15/01/2022 |Gradiant Boosting |link|
 |    Day 16  | 16/01/2022 |Explotary Data Analysis (EDA) |https://github.com/pavi-ninjaac/Machine_Learing_sratch/blob/main/EDA_and_Feature_Engineering/exploratory_data_analysis_for_feature_selection_in_machine_learning.pdf|
-|    Day 16  | 16/01/2022 |Explotary Data Analysis (EDA) |link|
+|    Day 17  | 17/01/2022 |Explotary Data Analysis (EDA) |link|
+|    Day 18  | 18/01/2022 |Feature Selection |link|

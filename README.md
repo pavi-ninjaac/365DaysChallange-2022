@@ -21,3 +21,4 @@
 |    Day 17  | 17/01/2022 |Explotary Data Analysis (EDA) |link|
 |    Day 18  | 18/01/2022 |Feature Selection |link|
 |    Day 19  | 19/01/2022 |Find Outliers and removal |link|
+|    Day 20  | 20/01/2022 |Normality test |link|

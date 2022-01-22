@@ -23,3 +23,4 @@
 |    Day 19  | 19/01/2022 |Find Outliers and removal |link|
 |    Day 20  | 20/01/2022 |Normality test |link|
 |    Day 21  | 21/01/2022 |EDA Examples |link|
+|    Day 21  | 21/01/2022 |EDA Kaggle practise |link|

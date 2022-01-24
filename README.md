@@ -25,3 +25,4 @@
 |    Day 21  | 21/01/2022 |EDA Examples |link|
 |    Day 22  | 22/01/2022 |EDA Kaggle practise |https://www.kaggle.com/ninjaac/tps-jan-complete-eda|
 |    Day 23  | 23/01/2022 |EDA Kaggle practise |https://www.kaggle.com/ninjaac/complete-eda-song-popularity-prediction|
+|    Day 24  | 24/01/2022 |Statistics refresh |link|

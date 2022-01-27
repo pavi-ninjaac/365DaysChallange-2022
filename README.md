@@ -27,3 +27,4 @@
 |    Day 23  | 23/01/2022 |EDA Kaggle practise Version 2 of notebook|https://www.kaggle.com/ninjaac/complete-eda-song-popularity-prediction|
 |    Day 24  | 24/01/2022 |Statistics refresh |link|
 |    Day 25  | 25/01/2022 |Outlier Handling Kaggle practise Version 3 of notebook|https://www.kaggle.com/ninjaac/complete-eda-song-popularity-prediction|
+|    Day 26  | 26/01/2022 |Statistics|link|

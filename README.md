@@ -30,3 +30,4 @@
 |    Day 26  | 26/01/2022 |Statistics|link|
 |    Day 27  | 27/01/2022 |Statistics|link|
 |    Day 28  | 28/01/2022 |Song popularity prediction|https://www.kaggle.com/ninjaac/oversampling-modelling-pred-song-popularity|
+|    Day 29  | 29/01/2022 |Song popularity prediction|https://www.kaggle.com/ninjaac/oversampling-modelling-pred-song-popularity|

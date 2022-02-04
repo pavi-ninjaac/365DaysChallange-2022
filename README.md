@@ -36,3 +36,5 @@
 |    Day 32  | 01/02/2022 |Statistics|link|
 |    Day 33  | 02/02/2022 |All transformars|link|
 |    Day 34  | 03/02/2022 |All transformars|link|
+|    Day 35  | 04/02/2022 |All transformars|https://www.kaggle.com/ninjaac/exp-data-all-about-feature-transformation|
+https://www.kaggle.com/ninjaac/exp-data-all-about-feature-transformation

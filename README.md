@@ -42,4 +42,5 @@
 |    Day 38  | 07/02/2022 |Probability|link|
 |    Day 39  | 08/02/2022 |Probability|link|
 |    Day 40  | 09/02/2022 |Probability|link|
-
+day 41
+say 42

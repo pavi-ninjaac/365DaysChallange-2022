@@ -42,6 +42,7 @@
 |    Day 38  | 07/02/2022 |Probability|link|
 |    Day 39  | 08/02/2022 |Probability|link|
 |    Day 40  | 09/02/2022 |Probability|link|
-day 41
-say 42
-day 43 notebook
+|    Day 41  | 10/02/2022 |training|https://www.kaggle.com/ninjaac/mlolymplad-complete-eda|
+|    Day 42  | 11/02/2022 |training|https://www.kaggle.com/ninjaac/mlolymplad-complete-eda|
+|    Day 43  | 12/02/2022 |training|https://www.kaggle.com/ninjaac/mlolymplad-complete-eda|
+|    Day 44  | 13/02/2022 |training|https://www.kaggle.com/ninjaac/mlolymplad-complete-eda|

@@ -46,3 +46,4 @@
 |    Day 42  | 11/02/2022 |training|https://www.kaggle.com/ninjaac/mlolymplad-complete-eda|
 |    Day 43  | 12/02/2022 |training|https://www.kaggle.com/ninjaac/mlolymplad-complete-eda|
 |    Day 44  | 13/02/2022 |training|https://www.kaggle.com/ninjaac/mlolymplad-complete-eda|
+

@@ -48,5 +48,6 @@
 |    Day 44  | 13/02/2022 |training|https://www.kaggle.com/ninjaac/mlolymplad-complete-eda|
 |    Day 45  | 14/02/2022 |training|https://www.kaggle.com/ninjaac/mlolymplad-complete-eda|
 |    Day 46  | 15/02/2022 |training|https://www.kaggle.com/ninjaac/mlolymplad-complete-eda|
-|    Day 46  | 15/02/2022 |Unsupervised learning|link|
-|    Day 46  | 15/02/2022 |Clustering -- single link clustering & Kmeans clustering|link|
+|    Day 47  | 16/02/2022 |Unsupervised learning|link|
+|    Day 48  | 17/02/2022 |Clustering -- single link clustering & Kmeans clustering|link|
+|    Day 49  | 18/02/2022 |Deep learning intro at coursera -- week 1|link|

@@ -51,4 +51,5 @@
 |    Day 47  | 16/02/2022 |Unsupervised learning|link|
 |    Day 48  | 17/02/2022 |Clustering -- single link clustering & Kmeans clustering|link|
 |    Day 49  | 18/02/2022 |Deep learning intro at coursera -- week 1|link|
-|    Day 50  | 19/02/2022 |Clustering -- practise|https://www.kaggle.com/ninjaac/clustering-customer-segmentation|
+|    Day 50  | 19/02/2022 |Clust
+ering -- practise|https://www.kaggle.com/ninjaac/clustering-customer-segmentation|

@@ -54,3 +54,5 @@
 |    Day 50  | 19/02/2022 |Clustering -- practise|https://www.kaggle.com/ninjaac/clustering-customer-segmentation|
 |    Day 51  | 20/02/2022 |Clustering -- practise|https://www.kaggle.com/ninjaac/clustering-customer-segmentation|
 |    Day 52  | 21/02/2022 |Clustering -- practise|https://www.kaggle.com/ninjaac/clustering-customer-segmentation|
+|    Day 53  | 22/02/2022 |Deep learning intro at coursera -- week 2|link|
+|    Day 54  | 23/02/2022 |Deep learning intro at coursera -- week 2|link|

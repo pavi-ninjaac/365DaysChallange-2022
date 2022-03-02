@@ -62,3 +62,4 @@
 |    Day 58  | 27/02/2022 |Deep learning intro at coursera -- week 3 assinment|link| 
 |    Day 59  | 28/02/2022 |Deep learning intro at coursera -- week 3 assinment|https://github.com/pavi-ninjaac/Deep-learning-specialization-cousera/tree/main/C1-Nueral%20Networks%20and%20Deep%20Learning/Week%203| 
 
+

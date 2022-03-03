@@ -61,5 +61,7 @@
 |    Day 57  | 26/02/2022 |Deep learning intro at coursera -- week 3|link| 
 |    Day 58  | 27/02/2022 |Deep learning intro at coursera -- week 3 assinment|link| 
 |    Day 59  | 28/02/2022 |Deep learning intro at coursera -- week 3 assinment|https://github.com/pavi-ninjaac/Deep-learning-specialization-cousera/tree/main/C1-Nueral%20Networks%20and%20Deep%20Learning/Week%203| 
-
-
+|    Day 60  | 29/02/2022 |REST - SICKNESS|EYE IRRITATION -- CAN'T SEE THE LAPTOP| 
+|    Day 61  | 01/03/2022 |REST - SICKNESS|EYE IRRITATION -- CAN'T SEE THE LAPTOP| 
+|    Day 62  | 02/03/2022 |Deep learning intro at coursera -- week 4 -- part 1|https://github.com/pavi-ninjaac/Deep-learning-specialization-cousera/tree/main/C1-Nueral%20Networks%20and%20Deep%20Learning/Week%204/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step| 
+|    Day 63  | 03/03/2022 |Deep learning intro at coursera -- week 4 -- part 2|| 

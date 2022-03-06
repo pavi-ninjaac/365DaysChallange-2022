@@ -16,7 +16,7 @@
 |-----------|-------------|-------------|----------------------|---------------|-----------|
 |     1  | Participate in any one kaggle compatition  | | | |3/4 th week
 |     2  | Weekly Notebook (total 4)  | |  | whole month | Daily |
-|     3  | 2 Notebook Gold medols  | | |  | Whole month |
+|     3  | 2 Notebook Gold medols  |FIRST :heavy_check_mark: | |first -- 06/03/2022 | Whole month |
 |     4  | Daily SQL -- complete 2 question on each day <br> Complete upto 4th week in 8 week Danne ma SQl challenge  || | Whole month | Daily |
 |     5  | DL from Scratch -- NN  | | |  | 1/2ed week|
 |     6  | Complete Course 2 of DL specialization  | | |  | 1/2ed week |

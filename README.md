@@ -68,3 +68,4 @@
 |    Day 64  | 04/03/2022 |C2 - Hyper parameter optimization at coursera -- week 1|| 
 |    Day 65  | 05/03/2022 |REST - SICKNESS|SOOOOOO FEVER AND SLEPT FOR THE WHOLE DAY|
 |    Day 66  | 06/03/2022 ||P| 
+\

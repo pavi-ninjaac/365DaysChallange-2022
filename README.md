@@ -67,5 +67,6 @@
 |    Day 63  | 03/03/2022 |Deep learning intro at coursera -- week 4 -- part 2|| 
 |    Day 64  | 04/03/2022 |C2 - Hyper parameter optimization at coursera -- week 1|| 
 |    Day 65  | 05/03/2022 |REST - SICKNESS|SOOOOOO FEVER AND SLEPT FOR THE WHOLE DAY|
-|    Day 66  | 06/03/2022 ||P| 
-\
+|    Day 66  | 06/03/2022 ||SICKNESS| 
+|    Day 67  | 07/03/2022 ||SICKNESS| 
+|    Day 68  | 08/03/2022 |SQL and C2 - Hyper parameter optimization at coursera -- week 1|| 

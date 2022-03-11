@@ -14,16 +14,15 @@
 
 |    Ithem  |    To do    |    Status   |    Remarks/Reason    | Completed on  | May be on |
 |-----------|-------------|-------------|----------------------|---------------|-----------|
-|     1  | Participate in any one kaggle compatition  | | | |3/4 th week
+|     1  | Participate in any one kaggle compatition  |heavy_check_mark: | | |3/4 th week
 |     2  | Weekly Notebook (total 4)  |FIRST :heavy_check_mark: |first -- 06/03/2022  | whole month | Daily |
 |     3  | 2 Notebook Gold medols  |FIRST :heavy_check_mark: | |first -- 06/03/2022 | Whole month |
 |     4  | Daily SQL -- complete 2 question on each day <br> Complete upto 4th week in 8 week Danne ma SQl challenge  || | Whole month | Daily |
 |     5  | DL from Scratch -- NN  | | |  | 1/2ed week|
 |     6  | Complete Course 2 of DL specialization  | | |  | 1/2ed week |
 |     7  | Statistic all testing   | | |  | 3/4 th week|
-|     8  | Complete EDA and Feature selection 7 day vedios | | |  | 1/2 ed week |
-|     9  | 5 silver Medols in Discussion  | | |  | Daily |
-|    10  | 10 compatitive coding quetion -- leedcode  | | |  | When i get time|
+|     8  | 5 silver Medols in Discussion  | | |  | Daily |
+|     9  | 10 compatitive coding quetion -- leedcode  | | |  | When i get time|
 
 
 

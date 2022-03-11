@@ -72,3 +72,4 @@
 |    Day 68  | 08/03/2022 |SQL and C2 - Hyper parameter optimization at coursera -- week 1|| 
 |    Day 69  | 09/03/2022 |SQL and C2 - Hyper parameter optimization at coursera -- week 1 program|| 
 |    Day 70  | 10/03/2022 |SQL and C2 - Hyper parameter optimization at coursera -- week 1 program|| 
+

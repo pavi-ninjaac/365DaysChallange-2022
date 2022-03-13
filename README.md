@@ -72,5 +72,6 @@
 |    Day 68  | 08/03/2022 |SQL and C2 - Hyper parameter optimization at coursera -- week 1|| 
 |    Day 69  | 09/03/2022 |SQL and C2 - Hyper parameter optimization at coursera -- week 1 program|| 
 |    Day 70  | 10/03/2022 |SQL and C2 - Hyper parameter optimization at coursera -- week 1 program|| 
-|    Day 71 | 11/03/2022 |clustering||
+|    Day 71  | 103/2022 |clustering||
 |    Day 72  | 12/03/2022 |Clustering - k-means from sctrach||
+|    Day 73  | 303/2022 |Clustering - Hierarical agglomerative cluster from scratch||

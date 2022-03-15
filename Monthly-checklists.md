@@ -20,9 +20,9 @@
 |     4  | Daily SQL -- complete 2 question on each day <br> Complete upto 4th week in 8 week Danne ma SQl challenge  || | Whole month | Daily |
 |     5  | DL from Scratch -- NN  | | |  | 1/2ed week|
 |     6  | Complete Course 2 of DL specialization  | | |  | 1/2ed week |
-|     7  | Statistic all testing   | | |  | 3/4 th week|
+|     7  | Statistic all testing   | | |  | 3ed weekend|
 |     8  | 5 silver Medols in Discussion  | | |  | Daily |
-|     9  | 10 compatitive coding quetion -- leedcode  | | |  | When i get time|
+|     9  | 10 compatitive coding quetion -- leedcode  | | |  | 3ed week end|
 
 
 

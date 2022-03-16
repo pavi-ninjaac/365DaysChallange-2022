@@ -75,4 +75,5 @@
 |    Day 71  | 11/03/2022 |clustering||
 |    Day 72  | 12/03/2022 |Clustering - k-means from sctrach||
 |    Day 73  | 13/03/2022 |Clustering - Hierarical agglomerative cluster from scratch||
-
+|    Day 74  | 14/03/2022 |Clustering - Hierarical agglomerative cluster from scratch||
+|    Day 75  | 15/03/2022 |Different distance mesaures in clustering and diff evaluation methods for clustering||

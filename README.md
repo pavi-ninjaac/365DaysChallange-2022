@@ -79,3 +79,4 @@
 |    Day 75  | 15/03/2022 |Different distance mesaures in clustering and diff evaluation methods for clustering||
 |    Day 76  | 16/03/2022 |Working on Kaggle netflix project||
 |    Day 77  | 17/03/2022 |Working on Kaggle netflix project||
+

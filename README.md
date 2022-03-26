@@ -87,3 +87,4 @@
 |    Day 83  | 23/03/2022 |Classification evaluation metrics||
 |    Day 84  | 24/03/2022 |Working on Kaggle netflix project||
 |    Day 85  | 25/03/2022 |Working on Kaggle netflix project||
+|    Day 86  | 26/03/2022 |Working on Kaggle netflix project||

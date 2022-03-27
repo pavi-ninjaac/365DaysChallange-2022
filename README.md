@@ -88,3 +88,4 @@
 |    Day 84  | 24/03/2022 |Working on Kaggle netflix project||
 |    Day 85  | 25/03/2022 |Working on Kaggle netflix project||
 |    Day 86  | 26/03/2022 |Working on Kaggle netflix project||
+|    Day 87  | 27/03/2022 |Working on Kaggle netflix project -- can't get a good result in LB -- started reading ML book||

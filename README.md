@@ -89,3 +89,5 @@
 |    Day 85  | 25/03/2022 |Working on Kaggle netflix project||
 |    Day 86  | 26/03/2022 |Working on Kaggle netflix project||
 |    Day 87  | 27/03/2022 |Working on Kaggle netflix project -- can't get a good result in LB -- started reading ML book||
+|    Day 88  | 28/03/2022 |Learning for Azure fundamental exam||
+|    Day 89  | 29/03/2022 |Learning for Azure fundamental exam||

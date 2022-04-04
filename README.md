@@ -94,3 +94,6 @@
 |    Day 90  | 30/03/2022 |Learning for Azure fundamental exam||
 |    Day 91  | 31/03/2022 |FEVER __ ||
 |    Day 92  | 01/04/2022 |FEVER __ ||
+|    Day 93  | 02/04/2022 |Learning for Azure fundamental exam||
+|    Day 94  | 03/04/2022 |Learning for Azure fundamental exam||
+|    Day 95  | 04/04/2022 |Learning for Azure fundamental exam||

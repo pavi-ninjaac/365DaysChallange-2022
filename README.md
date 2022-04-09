@@ -98,5 +98,5 @@
 |    Day 94  | 03/04/2022 |Learning for Azure fundamental exam||
 |    Day 95  | 04/04/2022 |Learning for Azure fundamental exam||
 |    Day 96  | 05/04/2022 |Learning for Azure fundamental exam||
-|    Day 97  | 06/04/2022 |Learnin
+|    Day 97  | 06/04/2022 |Learnin 
 g for Azure fundamental exam||

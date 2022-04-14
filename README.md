@@ -99,3 +99,11 @@
 |    Day 95  | 04/04/2022 |Learning for Azure fundamental exam||
 |    Day 96  | 05/04/2022 |Learning for Azure fundamental exam||
 |    Day 97  | 06/04/2022 |Learnin g for Azure fundamental exam||
+|    Day 98  | 07/04/2022 |Learnin g for Azure fundamental exam||
+|    Day 99  | 08/04/2022 |Learnin g for Azure fundamental exam||
+|    Day 100  | 09/04/2022 |Learnin g for Azure fundamental exam||
+|    Day 101  | 10/04/2022 |Read the first chapter of statistic book||
+|    Day 102  | 11/04/2022 |Read the second chapter of statistic book||
+|    Day 103  | 12/04/2022 |Kaggle compatition -- TPS APR 22 - Looking others cods||
+|    Day 104  | 13/04/2022 |Kaggle compatition -- TPS APR 22 - EDA|https://www.kaggle.com/code/ninjaac/tps-apr22-basic-eda|
+|    Day 105  | 14/04/2022 |Kaggle compatition -- TPS APR 22 - EDA |https://www.kaggle.com/code/ninjaac/tps-apr22-basic-eda|

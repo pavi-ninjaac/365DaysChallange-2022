@@ -22,7 +22,7 @@
 |     6  | Complete Course 2 of DL specialization  | one more week is there| |  | 1/2ed week |
 |     9  | 10 compatitive coding quetion -- leedcode  |:heavy_check_mark: | |  | 3ed week end|
 
-## April  
+## April   
 
 |    Ithem  |    To do    |    Status   |    Remarks/Reason    | Completed on  |May be on |
 |-----------|-------------|-------------|----------------------|---------------|----------|

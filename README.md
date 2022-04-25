@@ -109,3 +109,6 @@
 |    Day 105  | 14/04/2022 |Kaggle compatition -- TPS APR 22 - EDA |https://www.kaggle.com/code/ninjaac/tps-apr22-basic-eda|
 |    Day 106  | 15/04/2022 |Kaggle compatition -- TPS APR 22 - EDA|https://www.kaggle.com/code/ninjaac/tps-apr22-basic-eda|
 |    Day 107  | 16/04/2022 |Kaggle compatition -- TPS APR 22 - EDA |https://www.kaggle.com/code/ninjaac/tps-apr22-basic-eda|
+|    Day 108  | 17/04/2022 |Read the 3ed chapter of statistic book||
+|    Day 109  | 18/04/2022 |Read the 4th chapter of statistic book||
+|    Day 110  | 19/04/2022 |Read the 4th chapter of statistic book||

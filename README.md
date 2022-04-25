@@ -107,3 +107,5 @@
 |    Day 103  | 12/04/2022 |Kaggle compatition -- TPS APR 22 - Looking others cods||
 |    Day 104  | 13/04/2022 |Kaggle compatition -- TPS APR 22 - EDA|https://www.kaggle.com/code/ninjaac/tps-apr22-basic-eda|
 |    Day 105  | 14/04/2022 |Kaggle compatition -- TPS APR 22 - EDA |https://www.kaggle.com/code/ninjaac/tps-apr22-basic-eda|
+|    Day 106  | 15/04/2022 |Kaggle compatition -- TPS APR 22 - EDA|https://www.kaggle.com/code/ninjaac/tps-apr22-basic-eda|
+|    Day 107  | 16/04/2022 |Kaggle compatition -- TPS APR 22 - EDA |https://www.kaggle.com/code/ninjaac/tps-apr22-basic-eda|

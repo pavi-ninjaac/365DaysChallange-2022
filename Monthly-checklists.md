@@ -20,7 +20,7 @@
 |     4  | Daily SQL -- complete 2 question on each day <br> Complete upto 4th week in 8 week Danne ma SQl challenge  |FAILED | | Whole month | Daily |
 |     5  | DL from Scratch -- NN  | PARTIALLY DONE | |  | 1/2ed week|
 |     6  | Complete Course 2 of DL speci alization  | one more week is there| |  | 1/2ed week |
-|     9  | 10 compatitive coding quetion -- leedcode  |:heavy_check_mark: | |  | 3ed week end|
+|     9  | 10 c  ompatitive coding quetion -- leedcode  |:heavy_check_mark: | |  | 3ed week end|
   
 ## April     
 

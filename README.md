@@ -115,3 +115,6 @@
 |    Day 111  | 20/04/2022 |Read the 5th chapter of statistic book||
 |    Day 112  | 21/04/2022 |Read the 5th chapter of statistic book||
 |    Day 113  | 22/04/2022 |Read the 5th chapter of statistic book||
+|    Day 114  | 23/04/2022 |Read the 6th chapter of statistic book||
+|    Day 115  | 24/04/2022 |Read the 6th chapter of statistic book||
+|    Day 116  | 25/04/2022 |Read the 6th chapter of statistic book||

@@ -10,7 +10,7 @@
 |     4  | Learn Classification model from scratch  | DONE :heavy_check_mark:| :) | Whole month |
 
  
-## March   
+## March    
 
 |    Ithem  |    To do    |    Status   |    Remarks/Reason    | Completed on  | May be on |
 |-----------|-------------|-------------|----------------------|---------------|-----------|

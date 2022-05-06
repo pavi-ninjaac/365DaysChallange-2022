@@ -121,3 +121,5 @@
 |    Day 117  | 26/04/2022 |Read the 7th chapter of statistic book||
 |    Day 118  | 27/04/2022 |Read the 7th chapter of statistic book||
 |    Day 119  | 28/04/2022 |Read the 7th chapter of statistic book||
+|    Day 120  | 29/04/2022 |Read the 8th chapter of statistic book||
+|    Day 121  | 30/04/2022 |Read the 8th chapter of statistic book||

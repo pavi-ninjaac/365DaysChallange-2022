@@ -9,7 +9,7 @@
 |     3  | Participate in any one kaggle compatition  | DONE :heavy_check_mark:| :) | 12/02/2022 |
 |     4  | Learn Classification model from scratch  | DONE :heavy_check_mark:| :) | Whole month |
 
- 
+  
 ## March    
  
 |    Ithem  |    To do    |    Status   |    Remarks/Reason    | Completed on  | May be on |
